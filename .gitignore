@@ -1,0 +1,8 @@
+mca_env/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.h5
+.env
+.vscode/
