@@ -1,19 +1,31 @@
-# Time Series Forecasting using LSTM (PyTorch)
+# 🚀 Train-AI-Model
 
-## Features:
-- Data Cleaning
-- StandardScaler
-- Multi-output forecasting
-- LSTM Model/GRU Model
-- 
+A comprehensive repository for building, training, and evaluating AI/ML models using modern tools and best practices. This project is designed for students, beginners, and developers who want to understand the full machine learning pipeline.
 
-## Metrics:
-- MSE
-- RMSE
-- MAE
+---
 
-## Dataset:
-BHARTIARTL stock data
+## 📌 Features
 
-## Author:
-Ammar
+- 📊 Data Preprocessing (Cleaning, Normalization, Encoding)
+- 🤖 Model Training (ML & Deep Learning models)
+- 📈 Model Evaluation (Accuracy, Loss, Metrics)
+- 🔁 Hyperparameter Tuning
+- 💾 Model Saving & Loading
+- 📉 Visualization of Results
+- ⚡ Easy-to-understand code structure
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 🐍
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+- PyTorch / TensorFlow (depending on implementation)
+
+---
+
+## 📂 Project Structure
+
