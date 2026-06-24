@@ -1,4 +1,4 @@
-# 🚀 Train-AI-Model
+# 🚀 Data Analytics And Model-Trained
 
 A comprehensive repository for building, training, and evaluating AI/ML models using modern tools and best practices. This project is designed for students, beginners, and developers who want to understand the full machine learning pipeline.
 
